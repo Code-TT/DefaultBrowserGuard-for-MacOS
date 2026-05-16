@@ -52,7 +52,7 @@ Download the latest version from our website:
 
 ### [⬇ Download DefaultBrowserGuard](https://defaultbrowser.de/en/download/)
 
-**Version:** v1.0.2  
+**Version:** v1.0.3  
 **Size:** ~9 MB  
 **Compatibility:** macOS 14.6+, Apple Silicon
 
@@ -70,7 +70,10 @@ Download the latest version from our website:
 
 ## Screenshots
 
-*(Add screenshots here)*
+<img src="https://defaultbrowser.de/images/DefaultBrowserGuard-screenshot_01.png" alt="DefaultBrowserGuard App Screenshot 01">
+<img src="https://defaultbrowser.de/images/DefaultBrowserGuard-screenshot_02.png" alt="DefaultBrowserGuard App Screenshot 02">
+<img src="https://defaultbrowser.de/images/DefaultBrowserGuard-screenshot_03.png" alt="DefaultBrowserGuard App Screenshot 03">
+<img src="https://defaultbrowser.de/images/DefaultBrowserGuard-screenshot_04.png" alt="DefaultBrowserGuard App Screenshot 04">
 
 ---
 
